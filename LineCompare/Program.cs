@@ -14,11 +14,11 @@ namespace LineCompare
           p2 = c.line2();
             if (p1 == p2)
             {
-                Console.WriteLine("Both line are equal");
+                Console.WriteLine("line are equal");
             }
             else
             {
-                Console.WriteLine("Both line are not equal");
+                Console.WriteLine("line are not equal");
             }
 
 
